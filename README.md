@@ -47,8 +47,8 @@ Built with React, Three.js, React Three Fiber, Drei, Framer Motion, Tailwind CSS
 
 This is an independent concept project and is not affiliated with or endorsed by Madulsa.
 
-Demo coming soon.
-
+[View live experience](https://candy-land-page-blond.vercel.app)
+> Independent concept redesign. Not affiliated with or endorsed by Madulsa.
 ## Professional background
 
 Before moving into software development, I supported a U.S. healthcare organization through Softtek, resolving approximately 50 daily software-support tickets and working entirely in English across calls, meetings and ServiceNow workflows.
