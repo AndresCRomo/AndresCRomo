@@ -33,6 +33,8 @@ My work includes:
 
 ### Mazaryk ABA Center
 
+[![Mazaryk ABA Center — interactive 3D architectural website](assets/projects/mazaryk.jpg)](https://mazaryk-web.vercel.app)
+
 An interactive architectural website featuring a scroll-driven 3D building sequence, an explorer with rotation, zoom and day/night views, and an apartment catalog with duplex layers, X-ray views and interior galleries.
 
 Built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, Lenis and Three.js, with support for reduced-motion preferences.
@@ -40,6 +42,8 @@ Built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, Lenis and Three
 [Explore Mazaryk](https://mazaryk-web.vercel.app)
 
 ### CandyLandPage — Madulsa Concept Redesign
+
+[![CandyLandPage — Madulsa interactive candy experience](assets/projects/candylandpage.jpg)](https://candy-land-page-blond.vercel.app)
 
 An independent experimental redesign of MADULSA exploring an interactive candy and product-discovery experience through motion and 3D.
 
@@ -50,6 +54,8 @@ Built with React, TypeScript, Vite, Tailwind CSS, Framer Motion and React Three 
 > Independent concept redesign. Not affiliated with or endorsed by Madulsa.
 
 ### Gira Voltorb Calculator
+
+[![Gira Voltorb Calculator — puzzle board and strategy panel](assets/projects/gira-voltorb.jpg)](https://giravoltrob-calculator.vercel.app)
 
 A retro Nintendo DS-inspired companion for Voltorb Flip from Pokémon HeartGold and SoulSilver. An interactive 5 × 5 board uses row and column clues to analyze compatible configurations, display cell risks and suggest moves across four strategies.
 
