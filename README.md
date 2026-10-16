@@ -39,16 +39,34 @@ My work includes:
 
 [Visit MIAA](https://miaa.mx)
 
-### Madulsa Concept Redesign
+### Mazaryk ABA Center
 
-An independent creative-development experiment exploring how an international confectionery store could become an interactive product-discovery experience.
+An interactive architectural website featuring a scroll-driven 3D building sequence, an explorer with rotation, zoom and day/night views, and an apartment catalog with duplex layers, X-ray views and interior galleries.
 
-Built with React, Three.js, React Three Fiber, Drei, Framer Motion, Tailwind CSS and Lenis.
+Built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, Lenis and Three.js, with support for reduced-motion preferences.
 
-This is an independent concept project and is not affiliated with or endorsed by Madulsa.
+[Explore Mazaryk](https://mazaryk-web.vercel.app)
+
+### CandyLandPage — Madulsa Concept Redesign
+
+An independent experimental redesign of MADULSA exploring an interactive candy and product-discovery experience through motion and 3D.
+
+Built with React, TypeScript, Vite, Tailwind CSS, Framer Motion and React Three Fiber.
 
 [View live experience](https://candy-land-page-blond.vercel.app)
+
 > Independent concept redesign. Not affiliated with or endorsed by Madulsa.
+
+### Gira Voltorb Calculator
+
+A retro Nintendo DS-inspired companion for Voltorb Flip from Pokémon HeartGold and SoulSilver. An interactive 5 × 5 board uses row and column clues to analyze compatible configurations, display cell risks and suggest moves across four strategies.
+
+Built with React, TypeScript, Vite, Tailwind CSS and Motion. A constraint-solving engine runs in a Web Worker to keep the interface responsive, with keyboard navigation, undo/redo and local board history.
+
+[Try Gira Voltorb Calculator](https://giravoltrob-calculator.vercel.app)
+
+> Independent fan project. Not affiliated with Nintendo, Game Freak or The Pokémon Company.
+
 ## Professional background
 
 Before moving into software development, I supported a U.S. healthcare organization through Softtek, resolving approximately 50 daily software-support tickets and working entirely in English across calls, meetings and ServiceNow workflows.
