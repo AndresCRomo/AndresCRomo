@@ -16,14 +16,6 @@ I enjoy combining visual design and frontend engineering to turn ideas into resp
 
 ## Selected work
 
-### Invitta
-
-A digital wedding invitation service co-created with my wife. I designed and developed the product experience using React, TypeScript, Tailwind CSS and Framer Motion.
-
-Invitations can include RSVP flows, galleries, event locations, countdowns, music, gift registries, dress codes and WhatsApp or Google Sheets integrations.
-
-[Visit Invitta](https://invitta.studio)
-
 ### MIAA Digital Platforms
 
 I develop and lead web projects for Modelo Integral de Aguas de Aguascalientes.
@@ -66,6 +58,14 @@ Built with React, TypeScript, Vite, Tailwind CSS and Motion. A constraint-solvin
 [Try Gira Voltorb Calculator](https://giravoltrob-calculator.vercel.app)
 
 > Independent fan project. Not affiliated with Nintendo, Game Freak or The Pokémon Company.
+
+### Invitta
+
+A digital wedding invitation service co-created with my wife. I designed and developed the product experience using React, TypeScript, Tailwind CSS and Framer Motion.
+
+Invitations can include RSVP flows, galleries, event locations, countdowns, music, gift registries, dress codes and WhatsApp or Google Sheets integrations.
+
+[Visit Invitta](https://invitta.studio)
 
 ## Professional background
 
